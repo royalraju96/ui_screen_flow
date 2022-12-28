@@ -1,0 +1,1 @@
+enum Screens { createAccount, welcomeBack }
