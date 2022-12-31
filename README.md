@@ -1,16 +1,9 @@
 # ui_screen_flow
 
-A new Flutter project.
+A new Flutter UI project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/35111348/210120232-abfd5424-1194-4188-b850-e950d4878f48.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/35111348/210120239-70c8db53-d78b-4ce1-aeea-cc0cfb48bf00.png)
